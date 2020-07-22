@@ -37,8 +37,8 @@ Disallow: /trackback/
 Disallow: /wp-register.php
 
 # Add all sitemaps
-Sitemap: https://awesomestuff365.com/sitemap_index.xml
-Sitemap: https://awesomestuff365.com/post-sitemap1.xml
-Sitemap: https://awesomestuff365.com/post-sitemap3.xml
-Sitemap: https://awesomestuff365.com/page-sitemap.xml
-Sitemap: https://awesomestuff365.com/category-sitemap.xml
+Sitemap: 
+Sitemap: 
+Sitemap: https://site.com/sitemap.xml
+Sitemap: 
+Sitemap: 
